@@ -1,8 +1,8 @@
 **Fine Uploader is no longer maintained and the project has been effectively shut down. For more info, see https://github.com/FineUploader/fine-uploader/issues/2073.**
 
-<a href="http://fineuploader.com">
-   <img src="https://fineuploader.com/img/fineuploader-header-logo.png" width="300">
-</a>
+## Notes
+
+Forked for backup
 
 [![Build Status](https://travis-ci.org/FineUploader/fine-uploader.svg?branch=master)](https://travis-ci.org/FineUploader/fine-uploader)
 [![npm](https://img.shields.io/npm/v/fine-uploader.svg)](https://www.npmjs.com/package/fine-uploader)
